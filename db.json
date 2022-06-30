@@ -1,0 +1,15 @@
+{
+  "account_alert_info": [
+    {
+      "id": 123,
+      "serverNotificationId": 123,
+      "authFactorChangeType": 1,
+      "changedAuthDeviceModel": "Samsung Galaxy 10+",
+      "changedAuthDeviceLocation": "Ann Arbor, MI",
+      "changedAuthDeviceTime": 1656612426,
+      "changedAuthDeviceUsername": "dkite",
+      "pkey": "DP123"
+     }
+  ]
+}
+      
